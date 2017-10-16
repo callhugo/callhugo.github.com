@@ -1,5 +1,0 @@
-#!/bin/sh
-
-sass --watch csswizardry.scss:csswizardry.min.css --style compressed --precision 9
-
-exit 0
