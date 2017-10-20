@@ -1,6 +1,6 @@
 ---
 title: "Pressure Cleaning Showcase: 13 Bedford St Willoughby"
-meta: "Pressure cleaning paths, patios and courtyards is the best way to make your home exterior feel clean fresh and inviting. Trust Artarmon's leading choice for pressure cleaning"
+meta: "Pressure cleaning paths, patios and courtyards is the best way to make your home exterior feel clean fresh and inviting. Trust Willoughby's leading choice for pressure cleaning"
 permalink: /pressure-cleaning-willoughby-showcase-13-bedford-st/
 ---
 
