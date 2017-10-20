@@ -4,34 +4,29 @@ meta: "Pressure cleaning paths, patios and courtyards is the best way to make yo
 permalink: /pressure-cleaning-artarmon-showcase-21-burra-rd/
 ---
 
-<figure>
-<img src="/showcase/img/IMG_3635.JPG" alt="" />
-<figcaption>Pressure cleaning the brick retaining wall.</figcaption>
-</figure>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tveE0-T8nJE?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
-# Pressure Cleaning Showcase: 21 Burra Rd Artarmon
-Here are some images and descriptions of the work we performed at this property. Ask us how we can get the same dramatic results at your home.
+
+See the result of of work we performed at this property. Ask us how we can get the same dramatic results at your home.
 
 ## PRESSURE CLEANING
 ✓ Pavers and concrete washed with high pressure water  
 ✓ Mould removed from affected areas  
 ✓ $5 million insurance protection  
-AREAS: Rear path and steps to garden studio, 
-
-AREAS: Rear patio area and brick retaining walls
-
-AREAS: Entrance steps, front paths and front boundary brick retaining walls
-
-AREAS: Carport floor and driveway
+AREAS: 
+Rear path and steps to garden studio  
+Rear patio area and brick retaining walls  
+Entrance steps, front paths and front boundary brick retaining walls  
+Carport floor and driveway. 
 
 ## HOUSE WASHING
 ✓ Treat mould affected surfaces (walls, window frames and lintels)  
 ✓ Wash surfaces from the gutter to the ground  
 ✓ Spider webs removed  
 ✓ $5 million insurance protection  
-AREAS: All sides of house
-
-AREAS: Garden studio
+AREAS:  
+All sides of house
+Garden studio  
 
 AREAS: Carport: underside of roof and supports
 
