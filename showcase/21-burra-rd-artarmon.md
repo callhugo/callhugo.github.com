@@ -1,11 +1,11 @@
 ---
+layout: page
 title: "Pressure Cleaning Showcase: 21 Burra Rd Artarmon"
 meta: "Pressure cleaning paths, patios and courtyards is the best way to make your home exterior feel clean fresh and inviting. Trust Artarmon's leading choice for pressure cleaning"
 permalink: /pressure-cleaning-artarmon-showcase-21-burra-rd/
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tveE0-T8nJE?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
-
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='http://www.youtube.com/embed/tveE0-T8nJE?rel=0' frameborder='0' allowfullscreen></iframe></div>
 
 See the result of of work we performed at this property. Ask us how we can get the same dramatic results at your home.
 
@@ -46,7 +46,7 @@ AREAS:
 Carport roof: treat lichen
 
 <figure>
-<img src="/showcase/img/IMG_1661.JPG" alt="" />
+<img src="/showcase/assets/IMG_1661.JPG" alt="" />
 <figcaption>Lichen removed by cleaning the slate roof.</figcaption>
 </figure>
 
