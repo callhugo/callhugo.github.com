@@ -8,7 +8,7 @@ permalink: /sky-for-the-day/
 Select a date, make a list of areas you want cleaned and I bring the equipment, expertise and enthusiasm to refresh the exteriors of your home.  
   
 ## DESCRIPTION OF SERVICES
-###PRESSURE CLEANING
+### PRESSURE CLEANING
 ✓ Pavers and concrete washed with high pressure water  
 ✓ Mould removed from affected areas  
 ✓ $5 million insurance protection  
