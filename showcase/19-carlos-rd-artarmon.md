@@ -33,6 +33,10 @@ AREAS: Front picket fence and gates
 ✓ $5 million insurance protection  
 AREAS: All windows and doors
 
+<figure>
+<img src="/showcase/assets/19_carlos_rd_roof_cleaning_800.jpg" alt="" />
+<figcaption>Lichen removed by cleaning the clay tile roof.</figcaption>
+</figure>
 ## ROOF CLEANING
 ✓ Mould/lichen treatment  
 ✓ Roof tiles washed with medium pressure water  
