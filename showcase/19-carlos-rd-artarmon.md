@@ -5,12 +5,10 @@ meta: "Pressure cleaning paths, patios and courtyards is the best way to make yo
 permalink: /roof-cleaning-artarmon-showcase-19-carlos-rd-artarmon/
 ---
 
-[[waiting for video]]
-<!--<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='http://www.youtube.com/embed/[[item]]?rel=0' frameborder='0' allowfullscreen></iframe></div>-->
 
-<!--Here is the result of the work we performed at this property. Ask us how we can get the same dramatic results at your home.-->
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='http://www.youtube.com/embed/QFprYtHURr4?rel=0' frameborder='0' allowfullscreen></iframe></div>
 
-Here is a description of the areas that we cleaned and what we did.
+Here is the result of the work we performed at this property. Ask us how we can get the same dramatic results at your home.
 
 ## PRESSURE CLEANING
 ✓ Pavers and concrete washed with high pressure water  
