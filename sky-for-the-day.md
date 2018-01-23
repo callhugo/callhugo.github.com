@@ -32,7 +32,7 @@ Select a date, make a list of areas you want cleaned and I bring the equipment, 
 ✓ Debris put into bags that we take away with us  
 ✓ $5 million insurance protection  
 
-**RATE:** $600 per day (or $75 per hour) 
+**RATE:** $640 per day (or $80 per hour) 
 
 ### EXAMPLE LIST OF AREAS TO CLEAN
 Inspect and clean roof gutters, pressure clean driveway, entrance path and entrance area, house wash front and rear of house. Happy to clean items in the order of priority and be directed to clean additional areas like the rear paths and pool sorround according to the time remains.
