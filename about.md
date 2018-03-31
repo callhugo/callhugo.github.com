@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Us | Hugo Exterior Cleaning | Lower North Shore, Sydney
+title: About Hugo Exterior Cleaning
 permalink: /about/
 ---
 
