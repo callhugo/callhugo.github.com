@@ -1,0 +1,39 @@
+---
+layout: default
+---
+
+<div class="container">
+    <div class="d-none d-sm-block mt-2 ms-2">
+        <h5>{{ page.title }}</h5>
+    </div>
+    <div class="row d-flex-sm flex-sm-row-reverse">
+        <div class="col-sm-6 col-lg-4">
+            <div style="position: relative; padding-top: 177.77777777777777%;">
+                <iframe src="https://iframe.mediadelivery.net/embed/152985/{{ page.video_id }}?autoplay=true&loop=true&muted=true"
+                        loading="lazy" style="border: none; position: absolute; top: 0; height: 100%; width: 100%;"
+                        allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;" allowfullscreen="true"
+                ></iframe>
+            </div>
+        </div>
+        <div class="col-sm-6 col-lg-8">
+            <div class="card m-2">
+                <div class="card-body">
+
+                    {{ content }}
+
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row d-flex-sm mt-3">
+        <div class="col-sm-6 col-lg-8">
+            foo
+        </div>
+        <div class="col-sm-6 col-lg-4">
+            <h5>More projects</h5>
+            {% for p in site.pressure-cleaning %}
+                <a href="{{ p.url }}">{{p.address}} {{p.locality}}</a><br>
+            {% endfor %}
+        </div>
+    </div>
+</div>
