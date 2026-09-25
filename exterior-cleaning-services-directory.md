@@ -17,16 +17,16 @@ Gutter Cleaning
 Taka <a href="tel:0430119798">0430 119 798</a>  
 Window Cleaning
 
-Mark @ <href="https://artofwindowcleaning.com.au">Art of Window Cleaning</a> <a href="tel:0404543490">0404 543 490</a>  
+Mark @ [Art of Window Cleaning](https://artofwindowcleaning.com.au) <a href="tel:0404543490">0404 543 490</a>  
 Window Cleaning - Gutter Cleaning - Pressure Cleaning
 
 ## Roseville Chase
-Ben @ <href="https://finerdetailswindowcleaning.com.au">Finer Details</a> <a href="tel:0411783389">0411 783 389</a>  
+Ben @ [Finer Details](https://finerdetailswindowcleaning.com.au) <a href="tel:0411783389">0411 783 389</a>  
 Window Cleaning - Gutter Cleaning - Pressure Cleaning - House Washing
 
 ## Northern Beaches
 ### Narraweena
-Max @ <href="https://crane-tangerine-7g9r.squarespace.com">Go2 Property Maintenance</a> <a href="tel:0490471048">0490 471 048</a>  
+Max @ [Go2 Property Maintenance](https://crane-tangerine-7g9r.squarespace.com) <a href="tel:0490471048">0490 471 048</a>  
 House washing - Pressure Cleaning - Roof washing - Gutter Cleaning
 
 ### Allambie Heights
@@ -37,7 +37,7 @@ Window Cleaning - Gutter Cleaning - Pressure Cleaning - House Washing
 Phil @ Freshwater Window and Gutter Cleaning <a href="tel:0406222403">0406 222 403</a>  
 Window Cleaning - Gutter Cleaning  
 
-### Dee Why
+### Cromer
 Pat @ Swell <a href="tel:0490471048">0490 471 048</a>  
 Window Cleaning
 
