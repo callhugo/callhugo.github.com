@@ -14,31 +14,31 @@ Hideo @ Keep'M'Clean <a href="tel:0430030842">0430 030 842</a>
 Gutter Cleaning  
 
 ## Lane Cove
-Taka <a href="tel:0430119798">0430 119 798</a> 
+Taka <a href="tel:0430119798">0430 119 798</a>  
 Window Cleaning
 
-Mark @ Art of Window Cleaning <a href="tel:0404543490">0404 543 490</a>  
+Mark @ <href="https://artofwindowcleaning.com.au">Art of Window Cleaning</a> <a href="tel:0404543490">0404 543 490</a>  
 Window Cleaning - Gutter Cleaning - Pressure Cleaning
 
 ## Roseville Chase
-Ben @ Finer Details <a href="tel:0411783389">0411 783 389</a>
+Ben @ <href="https://finerdetailswindowcleaning.com.au">Finer Details</a> <a href="tel:0411783389">0411 783 389</a>  
 Window Cleaning - Gutter Cleaning - Pressure Cleaning - House Washing
 
 ## Northern Beaches
 ### Narraweena
-Max @ Go2 Property Maintenance <a href="tel:0490471048">0490 471 048</a>
+Max @ <href="https://crane-tangerine-7g9r.squarespace.com">Go2 Property Maintenance</a> <a href="tel:0490471048">0490 471 048</a>  
 House washing - Pressure Cleaning - Roof washing - Gutter Cleaning
 
 ### Allambie Heights
-Nick @ Pristine Property Maintenance <a href="tel:0424696802">0424 696 802</a>
+Nick @ Pristine Property Maintenance <a href="tel:0424696802">0424 696 802</a>  
 Window Cleaning - Gutter Cleaning - Pressure Cleaning - House Washing  
 
 ### Freshwater
-Phil @ Freshwater Window and Gutter Cleaning <a href="tel:0406222403">0406 222 403</a>
+Phil @ Freshwater Window and Gutter Cleaning <a href="tel:0406222403">0406 222 403</a>  
 Window Cleaning - Gutter Cleaning  
 
 ### Dee Why
-Pat @ Swell <a href="tel:0490471048">0490 471 048</a>
+Pat @ Swell <a href="tel:0490471048">0490 471 048</a>  
 Window Cleaning
 
 ## Eastern Suburbs
