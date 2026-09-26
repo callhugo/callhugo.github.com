@@ -13,8 +13,10 @@ Here is a list of fellow exterior cleaners I personally know and may have worked
 Hideo @ Keep'M'Clean <a href="tel:0430030842">0430 030 842</a>  
 Gutter Cleaning  
 
-## Lane Cove
-Taka <a href="tel:0430119798">0430 119 798</a>  
+
+
+### Lane Cove
+Taka Yamamoto <a href="tel:0430119798">0430 119 798</a>  
 Window Cleaning
 
 Mark @ [Art of Window Cleaning](https://artofwindowcleaning.com.au) <a href="tel:0404543490">0404 543 490</a>  
@@ -23,6 +25,10 @@ Window Cleaning - Gutter Cleaning - Pressure Cleaning
 ## Roseville Chase
 Ben @ [Finer Details](https://finerdetailswindowcleaning.com.au) <a href="tel:0411783389">0411 783 389</a>  
 Window Cleaning - Gutter Cleaning - Pressure Cleaning - House Washing
+
+### Mosman
+Mike Sese <a href="tel:0450503195">0450 503 195</a>  
+Window Cleaning - Gutter Cleaning
 
 ## Northern Beaches
 ### Narraweena
